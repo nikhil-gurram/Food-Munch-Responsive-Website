@@ -1,0 +1,293 @@
+.food-munch-logo{
+    height: 55px;
+    width: auto;
+}
+
+#navItem1{
+    color: #323f4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+#navItem2{
+    color: #323f4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+#navItem3{
+    color: #323f4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+#navItem4{
+    color: #323f4b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.banner-section-bg-container{
+    background-image: url("Images/logo-banner/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.banner-caption{
+    color: #f5f7fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.custom-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    font-size: 16px;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button{
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+    border-style: solid;
+    background-color: transparent;
+
+}
+
+/* why choose us stylings */
+
+.wcu-section{
+    background-color: #ffffff;
+}
+
+.wcu-heading{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.wcu-description{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: #5a7184;
+}
+
+.wcu-card-container{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.wcu-card-img{
+    margin: 15px;
+}
+
+.wcu-card-title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    color: #323f4b;
+}
+
+.wcu-card-description{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.wcu-offer{
+    color: rgb(26, 25, 25);
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* explore-menu-stylings */
+
+.explore-menu-section{
+    background-color: rgb(242, 244, 247);
+}
+
+.ems-heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 32px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.ems-card-img{
+    border-radius: 16px;
+}
+
+.ems-card-title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #323f4b;
+    margin-top: 24px;
+}
+
+.ems-card-link{
+    color: #d0b200;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.ems-card-container{
+    background-color: white;
+    border-radius: 18px;
+}
+
+/* healthy and delivery section */
+
+.healthy-food-section {
+     background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    /* background-color: #d0b200; */
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+/* footer-section */
+
+.food-munch-footer-section-container{
+    background-color: #0d2436;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.food-munch-footer-section-logo-image{
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.food-munch-footer-section-mail-id{
+    color: white;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+
+.food-munch-footer-section-address{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+
+/* Follow Us */
+.follow-us-section-heading{
+    color: #183b56;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 32px;
+}
+
+.icons{
+    color: #d0b200;
+    font-size: 40px;
+}
+
+.follow-us-icon-background{
+    height: 60px;
+    width: 60px;
+    background-color: #faf7e8;
+    padding-left: 11px;
+    padding-top: 10px;
+    margin: 15px;
+    border-radius: 100%;
+}
+
+/* Modal */
+.thanking-modal-title{
+    color: #d0b200;
+    font-size: 18px;
+}
